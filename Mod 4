@@ -1,9 +1,3 @@
-# Module 4 Lab-4
-# Name: Your Name
-# Date: Current Date
-# Description: This program calculates the store bonus and employee bonus based on monthly sales and percent of sales increase.
-
-# declare local variables
 monthlySales = 0  # monthly sales amount
 storeAmount = 0   # store bonus amount
 empAmount = 0     # employee bonus amount
